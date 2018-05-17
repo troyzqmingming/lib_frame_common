@@ -11,5 +11,5 @@
 gradlew.*
 gradlew
 gradle.properties
-gradle/
+
 .idea/
